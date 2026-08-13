@@ -1,18 +1,156 @@
-# 💫 About Me:
-I'm a passionate Web and App Developer dedicated to building modern, responsive, and user-friendly digital experiences. I specialize in developing high-quality websites and mobile applications that combine clean design with reliable functionality.<br><br>With experience in both front-end and back-end development, I enjoy turning ideas into scalable, efficient, and visually appealing products. I focus on writing clean, maintainable code while keeping performance, security, and user experience at the center of every project.<br><br>I'm always eager to learn new technologies, improve my skills, and take on exciting challenges. Whether it's creating a business website, developing a custom web application, or building a cross-platform mobile app, I'm committed to delivering solutions that help clients achieve their goals.<br><br>My goal is to create digital products that are not only functional but also intuitive, engaging, and built to last.<br>
+# Muhammad Hammad Ul Hassan
 
+### AI Engineer • Software Developer • Computer Science Student
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Hammad Ul Hassan ) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hammadulhassan045&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=hammadulhassan045&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hammadulhassan045&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://github.com/hammadulhassan045">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/Muhammad-Hammad-Ul-Hassan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=hammadulhassan045&style=flat-square&color=555555&label=Profile+Views">
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=hammadulhassan045&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I'm a Computer Science student and aspiring **AI Engineer** passionate about building intelligent, practical, and user-focused software solutions.
+
+My interests span **Artificial Intelligence, Machine Learning, Web Development, Mobile Applications, and Software Engineering**. I enjoy taking an idea from concept to a working product by combining clean architecture, modern technologies, and thoughtful user experience.
+
+I believe technology should do more than simply work — it should **solve real problems, simplify complex processes, and create meaningful impact.**
+
+### What I Do
+
+* 🤖 Explore Artificial Intelligence & Machine Learning
+* 💻 Build modern web applications
+* 📱 Develop cross-platform mobile applications
+* 🧠 Design intelligent and automation-based systems
+* 🗄️ Work with databases, APIs, and backend systems
+* 🔧 Continuously learn and experiment with emerging technologies
+
+---
+
+## Technical Skills
+
+### Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+</p>
+
+### Web & App Development
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+</p>
+
+### AI & Data
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Machine_Learning-102A43?style=flat-square">
+<img src="https://img.shields.io/badge/Artificial_Intelligence-333333?style=flat-square">
+</p>
+
+### Databases & Backend
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white">
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+</p>
+
+---
+
+## Featured Projects
+
+### 🤖 AI-Powered Smart Crop Doctor
+
+An intelligent agricultural assistance system designed to help farmers identify crop diseases and receive practical recommendations through AI-powered assistance.
+
+**Focus:** Artificial Intelligence • Machine Learning • Agriculture • Localized Assistance
+
+### 📚 AI Study Assistant
+
+A mobile learning platform designed to help students understand educational material through AI-powered summarization, question generation, doubt solving, and document processing.
+
+**Focus:** Flutter • AI • Supabase • Educational Technology
+
+### 💼 DevHire
+
+A web-based marketplace connecting developers with clients for software development projects, featuring job management, user accounts, feedback, ratings, and related functionality.
+
+**Focus:** Web Development • PHP • MySQL • Database Systems
+
+---
+
+## Currently Exploring
+
+```text
+Artificial Intelligence
+Machine Learning
+Generative AI
+Natural Language Processing
+Data Science
+Intelligent Automation
+Software Architecture
+Modern Web & Mobile Development
+```
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hammadulhassan045&show_icons=true&hide_border=true&theme=default&rank_icon=github" height="165">
+  <img src="https://streak-stats.demolab.com/?user=hammadulhassan045&hide_border=true&theme=default" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadulhassan045&layout=compact&hide_border=true&theme=default&langs_count=8">
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/Muhammad-Hammad-Ul-Hassan">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/hammadulhassan045">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <i>Building today. Learning continuously. Creating intelligent solutions for tomorrow.</i>
+</p>
